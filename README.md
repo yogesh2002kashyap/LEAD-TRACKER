@@ -52,7 +52,7 @@ DELETE ALL clears storage (double-click required for safety)
 
 Clone this repository:
 
-git clone https://github.com/your-username/leads-tracker-extension.git
+git clone https://github.com/yogesh2002kashyap/leads-tracker-extension.git
 
 
 Open Chrome and go to:
